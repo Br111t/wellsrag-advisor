@@ -1,11 +1,10 @@
-
----
-
-## 📦 2. `wellsrag-advisor`  
+```
+## 📦 2. `wellsrag-advisor`
+```
 **Name:** `wellsrag-advisor`  
 **Purpose:** Retrieval-augmented GenAI that answers regulatory/TCOO questions.
 
-```markdown
+
 # WellsRAG-Advisor 📑💡
 
 > A RAG-powered QA microservice over regulatory & process documentation.
@@ -25,11 +24,12 @@
 
 ## 🚀 Quick Start
 
-```bash
+
 # 1. Clone & install
+```bash
 git clone https://github.com/Br111t/wellsrag-advisor.git && cd wellsrag-advisor
 pip install -r requirements.txt
-
+```
 # 2. Start service
 uvicorn app.main:app --reload
 
