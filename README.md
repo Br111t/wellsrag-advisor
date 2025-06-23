@@ -1,6 +1,5 @@
-```
+
 ## 📦 2. `wellsrag-advisor`
-```
 **Name:** `wellsrag-advisor`  
 **Purpose:** Retrieval-augmented GenAI that answers regulatory/TCOO questions.
 
